@@ -1,3 +1,6 @@
+[希沃白板免登录]
+vip=no
+url=https://scratchhcr.de5.net/fu/baiban.html
 [希沃七代机系统升级]
 vip=yes
 url=https://scratchhcr.de5.net/fu/？.html
